@@ -1,4 +1,4 @@
 game
 ====
 
-Tic-tac-tow
+Tic-tac-toe
